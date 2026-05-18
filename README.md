@@ -1,7 +1,7 @@
 # Hi there, I'm Zoubair Baladi! 👋
 **Data Analyst & Business Analyst** 🚀
 
-[cite_start]Titulaire d'un Master en Systèmes et Télécommunications, je suis passionné par l'analyse, le traitement et la valorisation des données[cite: 6, 42]. [cite_start]Mon objectif est de transformer des données brutes en insights stratégiques exploitables pour faciliter la prise de décision[cite: 13, 18].
+Titulaire d'un Master en Systèmes et Télécommunications, je suis passionné par l'analyse, le traitement et la valorisation des données. Mon objectif est de transformer des données brutes en insights stratégiques exploitables pour faciliter la prise de décision.
 
 ---
 
@@ -9,64 +9,86 @@
 
 | Domaine | Technologies & Outils |
 | :--- | :--- |
-| **Analyse de Données & Stats** | [cite_start]`Python (Pandas, NumPy, SciPy)` [cite: 9, 34][cite_start], `Analyse Statistique` [cite: 9][cite_start], `EDA` [cite: 9][cite_start], `Nettoyage de données` [cite: 9] |
-| **Business Intelligence** | [cite_start]`Power BI (DAX, KPIs)` [cite: 10][cite_start], `Tableau` [cite: 10][cite_start], `Excel (TCD, Power Query)` [cite: 12, 19] |
-| **Databases & Data Engineering** | [cite_start]`SQL` [cite: 11][cite_start], `Pipelines de données` [cite: 11][cite_start], `Modélisation Data Warehouse (Bronze/Silver/Gold)` [cite: 11] |
-| **Gestion de Projet & Outils** | [cite_start]`Git` [cite: 34][cite_start], `Jira` [cite: 34] |
+| **Analyse de Données & Stats** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) <br> `Exploratory Data Analysis (EDA)`, `Nettoyage de données`, `Analyse statistique` |
+| **Business Intelligence** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) <br> `DAX`, `Power Query`, `KPIs`, `Tableaux croisés dynamiques` |
+| **Databases & Data Engineering** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) <br> `Pipelines de données`, `Modélisation Data Warehouse (Bronze/Silver/Gold)` |
+| **Gestion de Projet & Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 ---
 
-### 📂 Projets Phares
+### 📂 Projets Phares (Cliquez pour dérouler 🔓)
 
-#### 📊 [Pipeline Data Engineering - YouTube Data API v3](https://github.com/votre-username/votre-repo)
-* [cite_start]**Description :** Conception d’un pipeline ETL complet pour extraire, transformer et structurer les données vidéo YouTube en vue d'une analyse de performance[cite: 26, 27].
-* [cite_start]**Détails :** Création de dashboards Power BI interactifs avec calculs de KPIs avancés en DAX[cite: 28].
-* [cite_start]**Tech Stack :** `Python`, `Pandas`, `Requests`, `JSON`, `Power BI`, `DAX`, `API YouTube` [cite: 29]
+<details>
+<summary><b>📊 Pipeline Data Engineering - YouTube Data API v3</b></summary>
+<br>
 
-#### 🎬 [Analyse du Catalogue Netflix](https://github.com/votre-username/votre-repo)
-* [cite_start]**Description :** Analyse exploratoire (EDA) et nettoyage approfondi du catalogue Netflix pour identifier les grandes tendances de contenu[cite: 21].
-* [cite_start]**Détails :** Visualisations d'indicateurs clés (genres, pays, évolution temporelle) pour optimiser l'aide à la décision[cite: 22, 23].
-* [cite_start]**Tech Stack :** `Python`, `Pandas`, `Matplotlib`, `Seaborn` [cite: 24]
+* **Description :** Conception d’un pipeline ETL complet pour extraire, transformer et structurer les données vidéo YouTube via l'API Data v3.
+* **Détails :** Création de dashboards Power BI interactifs avec calculs de KPIs avancés en DAX (engagement, performance, évolution des vues).
+* **Tech Stack :** `Python`, `Pandas`, `Requests`, `JSON`, `Power BI`, `DAX`, `API YouTube`
+* 🔗 [Voir le dépôt GitHub](https://github.com/baladi33) *(À mettre à jour avec ton lien)*
+</details>
 
-#### 📈 [Analyse des Campagnes Marketing](https://github.com/votre-username/votre-repo)
-* [cite_start]**Description :** Modélisation de données et tests statistiques pour mesurer l'impact réel des campagnes marketing sur les ventes et le comportement des clients[cite: 31, 32].
-* [cite_start]**Détails :** Tracking de la performance globale via un dashboard Power BI et Power Query[cite: 33].
-* [cite_start]**Tech Stack :** `Python (SciPy, NumPy)`, `Power BI`, `DAX`, `Power Query` [cite: 34]
+<details>
+<summary><b>🎬 Analyse du Catalogue Netflix & Dashboard Interactif</b></summary>
+<br>
 
-#### 🍏 [Tableau de Bord Excel & Analyse des Ventes](https://github.com/votre-username/votre-repo)
-* [cite_start]**Description :** Consolidation et nettoyage de données multi-sources pour le suivi des ventes (CA, délais, satisfaction)[cite: 16].
-* [cite_start]**Tech Stack :** `Excel`, `Power Query`, `Tableaux Croisés Dynamiques` [cite: 17, 19]
+* **Description :** Analyse exploratoire (EDA) et nettoyage approfondi du catalogue Netflix pour identifier les grandes tendances de contenu.
+* **Détails :** Visualisations interactives d'indicateurs clés (genres, pays, types de contenus, évolution temporelle) pour optimiser l'aide à la décision.
+* **Tech Stack :** `Python`, `Pandas`, `Matplotlib`, `Seaborn`
+* 🔗 [Voir le dépôt GitHub](https://github.com/baladi33)
+</details>
+
+<details>
+<summary><b>📈 Analyse des Campagnes Marketing & Dashboard Power BI</b></summary>
+<br>
+
+* **Description :** Modélisation de données et tests statistiques pour mesurer l'impact réel des campagnes marketing sur les ventes et le comportement des clients.
+* **Détails :** Tracking de la performance globale via un dashboard interactif Power BI et Power Query en utilisant des mesures DAX dédiées.
+* **Tech Stack :** `Python (Pandas, NumPy, SciPy, Matplotlib)`, `Power BI`, `Power Query`, `DAX`
+* 🔗 [Voir le dépôt GitHub](https://github.com/baladi33)
+</details>
+
+<details>
+<summary><b>🍏 Tableau de Bord Excel & Analyse des Ventes</b></summary>
+<br>
+
+* **Description :** Consolidation, nettoyage et transformation de données multi-sources pour le suivi rigoureux des ventes (CA, délais, satisfaction client).
+* **Détails :** Création de Tableaux Croisés Dynamiques (TCD) et de visualisations avancées pour concevoir un outil ergonomique d'aide à la décision.
+* **Tech Stack :** `Excel`, `Power Query`
+* 🔗 [Voir le dépôt GitHub](https://github.com/baladi33)
+</details>
 
 ---
 
 ### 💼 Expérience Professionnelle
 
-[cite_start]**Enquêteur terrain — Haut-Commissariat au Plan (HCP)** *(Avril 2026 - Présent)* [cite: 36, 52]
-* [cite_start]Collecte, saisie et vérification rigoureuse d'informations statistiques sur le terrain pour garantir la qualité maximale des données[cite: 37, 38].
-* [cite_start]Collaboration active avec l'équipe pour la contribution aux analyses et aux rapports statistiques nationaux[cite: 39].
+**Enquêteur terrain — Haut-Commissariat au Plan (HCP)** *(Avril 2026 - Présent)*
+* Collecte, saisie et vérification rigoureuse d'informations statistiques sur le terrain pour garantir la qualité et la fiabilité maximale des données.
+* Collaboration active avec l'équipe pour la contribution aux analyses et aux rapports statistiques nationaux.
 
 ---
 
 ### 🎓 Formations & Diplômes
 
-* [cite_start]**Formation Data Analyst** – *Simplon Maghreb x Jobintech* [cite: 41]
-* [cite_start]**Master en Systèmes et Télécommunications** – *Université Ibn Zohr Agadir* [cite: 42]
-* [cite_start]**Licence en Physique (Électronique)** – *Université Ibn Zohr Agadir* [cite: 42]
+* **Formation Data Analyst** – *Simplon Maghreb x Jobintech*
+* **Master en Systèmes et Télécommunications** – *Université Ibn Zohr Agadir*
+* **Licence en Physique (Électronique)** – *Université Ibn Zohr Agadir*
 
 ---
 
 ### 🌐 Soft Skills & Langues
 
-* [cite_start]**Langues :** Arabe (Maternelle) 🇲🇦 [cite: 45] | [cite_start]Français (Courant) 🇫🇷 [cite: 46] | [cite_start]Anglais (Bonne compréhension) 🇬🇧 [cite: 56]
-* [cite_start]**Atouts :** Résolution de problèmes [cite: 57][cite_start], Esprit d'équipe [cite: 47][cite_start], Gestion du temps [cite: 48][cite_start], Créativité [cite: 50]
+* **Langues :** * Arabe (Maternelle) 🇲🇦 
+  * Français (Courant) 🇫🇷 
+  * Anglais (Bonne compréhension) 🇬🇧
+* **Atouts :** Résolution de problèmes | Esprit d'équipe | Gestion du temps | Créativité
 
 ---
 
 ### 📫 Me contacter
 
-* [cite_start]**Email :** zoubairbaladi@gmail.com [cite: 4]
-* [cite_start]**LinkedIn :** [linkedin.com/in/zoubairbaladi](https://linkedin.com/in/zoubairbaladi) [cite: 4]
-* [cite_start]**GitHub :** [github.com/baladi33](https://github.com/baladi33) [cite: 5]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zoubairbaladi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoubairbaladi@gmail.com)
 
 ---
-*💡 N'hésite pas à explorer mes dépôts pour voir mon code en action !*
+*💡 N'hésite pas à explorer mes dépôts pour voir mon code et mes dashboards en action !*
